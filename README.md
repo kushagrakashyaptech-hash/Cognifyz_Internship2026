@@ -1,16 +1,40 @@
-# Restaurant Rating Data Analysis
+# Level 2 - Task 3: Feature Engineering
 
-This project explores a restaurant dataset and performs:
+## Overview
 
-- Data exploration
-- Missing value analysis
-- Data cleaning
-- Data type inspection
-- Aggregate rating distribution analysis
-- Class imbalance identification
+This project focuses on feature engineering techniques using a restaurant dataset.
 
-Tools:
+## Objectives
+
+- Extract useful features from existing columns.
+- Create new features using text length.
+- Encode categorical variables into numerical form.
+
+## Features Created
+
+### Text-Based Features
+
+- Restaurant Name Length
+- Address Length
+
+### Encoded Features
+
+- Table Booking Encoded
+- Online Delivery Encoded
+
+## Technologies Used
+
 - Python
 - Pandas
-- Matplotlib
 - Jupyter Notebook
+
+## Files
+
+- Task6.ipynb
+- Dataset.csv
+- README.md
+
+## Author
+
+Kushagra Kashyap
+Data Science Intern – Cognifyz Technologies
