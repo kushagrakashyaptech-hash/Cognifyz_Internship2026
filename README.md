@@ -1,16 +1,30 @@
-# Restaurant Rating Data Analysis
+# Level 3 - Task 1: Predictive Modeling
 
-This project explores a restaurant dataset and performs:
+## Objective
 
-- Data exploration
-- Missing value analysis
-- Data cleaning
-- Data type inspection
-- Aggregate rating distribution analysis
-- Class imbalance identification
+Build regression models to predict restaurant aggregate ratings and compare different machine learning algorithms.
 
-Tools:
+## Algorithms Used
+
+- Linear Regression
+- Decision Tree Regressor
+- Random Forest Regressor
+
+## Evaluation Metrics
+
+- Mean Absolute Error (MAE)
+- Root Mean Squared Error (RMSE)
+- R² Score
+
+## Technologies
+
 - Python
 - Pandas
-- Matplotlib
+- Scikit-Learn
 - Jupyter Notebook
+
+## Files
+
+- Task7.ipynb
+- Dataset.csv
+- README.md
