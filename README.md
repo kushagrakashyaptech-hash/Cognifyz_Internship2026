@@ -1,15 +1,30 @@
-# Level 3 - Task 2: Customer Preference Analysis
+# Level 3 - Task 3: Data Visualization
 
 ## Overview
 
-This project analyzes customer preferences using restaurant ratings and voting behavior.
+This project focuses on visualizing restaurant ratings and customer behavior using various charts.
 
 ## Objectives
 
-- Analyze cuisine types and ratings.
-- Identify the most popular cuisines based on votes.
-- Determine cuisines with consistently higher ratings.
-- Explore the relationship between popularity and ratings.
+- Visualize rating distributions.
+- Compare ratings across cuisines and cities.
+- Explore relationships between restaurant features and ratings.
+- Gain insights through graphical analysis.
+
+## Visualizations Used
+
+- Histogram
+- Bar Chart
+- Scatter Plot
+
+## Features Analyzed
+
+- Aggregate Rating
+- Votes
+- Average Cost for Two
+- Price Range
+- Cuisine Type
+- City
 
 ## Technologies Used
 
@@ -18,16 +33,9 @@ This project analyzes customer preferences using restaurant ratings and voting b
 - Matplotlib
 - Jupyter Notebook
 
-## Analysis Performed
-
-- Average Rating by Cuisine
-- Popular Cuisine Analysis
-- Votes by Cuisine
-- Cuisine Popularity vs Rating Analysis
-
 ## Files
 
-- Task8.ipynb
+- Task9.ipynb
 - Dataset.csv
 - README.md
 
