@@ -1,37 +1,22 @@
-# Level 3 - Task 2: Customer Preference Analysis
+# Level 1 - Task 1: Restaurant Rating Data Analysis
 
 ## Overview
 
-This project analyzes customer preferences using restaurant ratings and voting behavior.
+This project performs exploratory data analysis on a restaurant dataset.
 
-## Objectives
+## Tasks Performed
 
-- Analyze cuisine types and ratings.
-- Identify the most popular cuisines based on votes.
-- Determine cuisines with consistently higher ratings.
-- Explore the relationship between popularity and ratings.
+- Dataset exploration
+- Missing value detection
+- Missing value handling
+- Data type analysis
+- Aggregate rating analysis
+- Class imbalance identification
+- Histogram visualization
 
-## Technologies Used
+## Tools Used
 
 - Python
 - Pandas
 - Matplotlib
 - Jupyter Notebook
-
-## Analysis Performed
-
-- Average Rating by Cuisine
-- Popular Cuisine Analysis
-- Votes by Cuisine
-- Cuisine Popularity vs Rating Analysis
-
-## Files
-
-- Task8.ipynb
-- Dataset.csv
-- README.md
-
-## Author
-
-Kushagra Kashyap
-Data Science Intern – Cognifyz Technologies
