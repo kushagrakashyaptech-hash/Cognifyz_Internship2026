@@ -20,3 +20,11 @@ This project performs exploratory data analysis on a restaurant dataset.
 - Pandas
 - Matplotlib
 - Jupyter Notebook
+
+---
+
+## Author
+
+Kushagra Kashyap
+
+Data Science Intern – Cognifyz Technologies
